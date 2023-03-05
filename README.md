@@ -1,6 +1,8 @@
 # Remotely-Lab-Management [ © R.Sathusan ]
+- This desktop application allows the admin to remotely control computers in a laboratory from anywhere, even across different networks. With just a few clicks, the admin can perform various actions, including running all command comments, shutting down the computer, logging off, sending voice comments, and pop-up alerts. Additionally, this application provides several other features that the admin can use to perform other activities.
+
+
 - The system is designed using **Python** and UI/UX website **Figma**
-- This system can also be used to monitor and control lab computers from **different networks**
 
 # Features
 - Run CMD comments remotely
