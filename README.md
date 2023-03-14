@@ -5,6 +5,7 @@
 - The system is designed using **Python** and UI/UX website **Figma**
 
 # Features
+- Works from diffrent Networks
 - Run CMD comments remotely
 - Send popup alert with speech comment
 - Shutdown / restart / Logout instantly with specific buttons
